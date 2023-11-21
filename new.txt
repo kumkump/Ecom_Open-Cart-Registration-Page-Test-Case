@@ -1,1 +1,1 @@
-hi this is a locallly changed file to be pushed to remote repo.
+this is a new change added to the this file to showcase conflict.
